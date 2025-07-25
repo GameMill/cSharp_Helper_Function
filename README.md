@@ -20,7 +20,8 @@ A lightweight library of reusable utilities for C# console applications—provid
 ## 🛠️ Prerequisites
 
 - .NET Framework 4.6+ or .NET Core 3.1+  
-- Windows 7 or later (for SMART access)  
+- Windows 7 or later (for SMART access)
+- Smart enabled in bios/uefi firmware
 
 ---
 
